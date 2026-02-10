@@ -1,0 +1,6 @@
+echo "desktop.ini" > .gitignore
+echo "*.exe" >> .gitignore
+echo "*.o" >> .gitignore
+echo "bin/" >> .gitignore
+echo "lib/" >> .gitignore
+echo ".vscode/" >> .gitignore
